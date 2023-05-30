@@ -1,0 +1,2 @@
+# SmartCampus
+school app
